@@ -1,0 +1,12 @@
+[submodule "pack/bundle/start/nerdtree"]
+	path = pack/bundle/start/nerdtree
+	url = https://github.com/scrooloose/nerdtree
+[submodule "pack/bundle/start/vim-autoclose"]
+	path = pack/bundle/start/vim-autoclose
+	url = https://github.com/Townk/vim-autoclose
+[submodule "pack/bundle/opt/closetag.vim"]
+	path = pack/bundle/opt/closetag.vim
+	url = https://github.com/vim-scripts/closetag.vim
+[submodule "pack/themes/opt/vim-solarized8"]
+	path = pack/themes/opt/vim-solarized8
+	url = https://github.com/lifepillar/vim-solarized8.git
