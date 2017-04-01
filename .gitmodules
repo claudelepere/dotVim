@@ -22,3 +22,9 @@
 [submodule "pack/bundle/start/vim-ragtag"]
 	path = pack/bundle/start/vim-ragtag
 	url = https://github.com/tpope/vim-ragtag
+[submodule "closetag.vim"]
+	path = closetag.vim
+	url = https://github.com/vim-scripts/closetag.vim
+[submodule "pack/bundle/start/closetag.vim"]
+	path = pack/bundle/start/closetag.vim
+	url = https://github.com/vim-scripts/closetag.vim
