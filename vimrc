@@ -127,6 +127,4 @@ nnoremap <C-l> <C-w>l
 map <C-n> :NERDTreeToggle<CR>
 set spell spelllang=en_us
 packadd! matchit
-packadd! closetag.vim
-
 
